@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**KAUANGONCALVES08/KAUANGONCALVES08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#SOBRE MIM
+- 👋OLÁ MEU NOME KAUANGONCALVES08
+- :+1:MEU EMAIL DE CONTATO É KAUAN.FERRAZ@ESCOLA.PR.GOV.BR
+- ✨MINHA DATA DE NASCIMENTO É 30/09/2005
+- :+1:MEU SONHO É SER POLICIAL RODOVIARIO FEDERAL
+- 🔭MORO NA CIDADE DE CAMPO DO TENENTE
+- 🌱ESTUDO NO COLÉGIO ESTADUAL VICTOR BUSSMANN
+- 👯TRABALHO EM UMA AGROPECUARIA
+- 🤔VIVO EM FESTA
+- 💬GOSTO DE RODEIOS
+- 📫SOU FÃ DO TIÃO CARREIRO
+- 😄AMO CERVEJA
+- ⚡GOSTO DE ANDAR TRAJADO
